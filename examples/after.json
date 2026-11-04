@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": "42",
+    "name": "Ada"
+  },
+  "items": [
+    {
+      "sku": "A-01",
+      "quantity": 2
+    }
+  ],
+  "traceId": "a1"
+}
