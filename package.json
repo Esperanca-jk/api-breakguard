@@ -1,0 +1,17 @@
+{
+  "name": "api-breakguard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Detect potential breaking changes between JSON API snapshots",
+  "bin": {
+    "api-breakguard": "./src/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
