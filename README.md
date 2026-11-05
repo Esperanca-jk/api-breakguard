@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cover.svg" alt="api-breakguard project overview" width="100%"></p>
+
 # api-breakguard
 
 Spot **potential** breaking changes between two JSON API response snapshots. A minimal Node.js CLI with zero runtime dependencies.
@@ -36,3 +38,8 @@ It does not send data to third parties and does not need network access.
 `npm test` uses Node's built-in test runner. Contributions that improve inference should add regression fixtures. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 [MIT License](LICENSE).
+
+
+---
+
+**Related tool:** [env-contract](https://github.com/Esperanca-jk/env-contract) — catch configuration drift before deployment.
